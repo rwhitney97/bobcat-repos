@@ -15,4 +15,8 @@ repositories:
     type: git
     url: git@github.com:rwhitney97/bobcat-arduino-daq.git
     version: main
+  third-party/serial-port-utils:
+    type: git
+    url: git@github.com:wjwwood/serial.git
+    version: main
   

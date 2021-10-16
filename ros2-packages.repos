@@ -7,3 +7,12 @@ repositories:
     type: git
     url: git@github.com:rwhitney97/bobcat-basestation.git
     version: main
+  vehicles:
+    type: git
+    url: git@github.com:rwhitney97/bobcat-vehicle.git
+    version: main
+  arduino-daq:
+    type: git
+    url: git@github.com:rwhitney97/bobcat-arduino-daq.git
+    version: main
+  

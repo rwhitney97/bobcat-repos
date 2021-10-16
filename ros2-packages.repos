@@ -1,0 +1,9 @@
+repositories:
+  common:
+    type: git
+    url: git@github.com:rwhitney97/bobcat-common.git
+    version: develop
+  basestation:
+    type: git
+    url: git@github.com:rwhitney97/bobcat-basestation.git
+    version: develop

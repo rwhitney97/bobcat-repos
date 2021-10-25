@@ -17,6 +17,6 @@ repositories:
     version: main
   third-party/serial-port-utils:
     type: git
-    url: git@github.com:wjwwood/serial.git
+    url: https://github.com/RoverRobotics-forks/serial-ros2.git
     version: main
   

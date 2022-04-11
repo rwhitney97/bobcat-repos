@@ -17,4 +17,8 @@ repositories:
     type: git
     url: https://github.com/RoverRobotics-forks/serial-ros2.git
     version: master
+  third-party/imu-utils:
+    type: git
+    url: https://github.com/CCNYRoboticsLab/imu_tools.git
+    version: eloquent
 

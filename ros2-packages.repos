@@ -1,16 +1,18 @@
 repositories:
-  comms:
+
+  apps:
     type: git
-    url: git@github.com:rwhitney97/ros2-comms.git
+    url: git@github.com:rwhitney97/ros2-applications.git
     version: main
+    
   arduino:
     type: git
     url: git@github.com:rwhitney97/bobcat-arduino.git
     version: main
 
-  vehicles/quadcopter:
+  comms:
     type: git
-    url: git@github.com:rwhitney97/ros2-quadcopter.git
+    url: git@github.com:rwhitney97/ros2-comms.git
     version: main
 
   third-party/serial-port-utils:
@@ -22,3 +24,7 @@ repositories:
     url: https://github.com/CCNYRoboticsLab/imu_tools.git
     version: eloquent
 
+  vehicles/quadcopter:
+    type: git
+    url: git@github.com:rwhitney97/ros2-quadcopter.git
+    version: main
